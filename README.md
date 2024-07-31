@@ -23,7 +23,7 @@ Prediction: Classifies new X-ray images into COVID-19 positive or normal categor
 └── README.md</br>
 Installation</br>
 Clone the repository:</br>
-git clone https://github.com/yourusername/29_Covid19DetectionusingCNN.git</br>
+git clone https://github.com/sampannkanungo1/Covid19DetectionusingCNN.git</br>
 cd 29_Covid19DetectionusingCNN</br>
 </br>
 Install the required packages:</br>
